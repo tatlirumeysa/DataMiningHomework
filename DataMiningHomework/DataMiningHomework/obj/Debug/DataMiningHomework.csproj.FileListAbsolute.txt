@@ -1,0 +1,10 @@
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\bin\Debug\DataMiningHomework.exe.config
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\bin\Debug\DataMiningHomework.exe
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\bin\Debug\DataMiningHomework.pdb
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\obj\Debug\DataMiningHomework.csprojAssemblyReference.cache
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\obj\Debug\DataMiningHomework.Form1.resources
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\obj\Debug\DataMiningHomework.Properties.Resources.resources
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\obj\Debug\DataMiningHomework.csproj.GenerateResource.cache
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\obj\Debug\DataMiningHomework.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\obj\Debug\DataMiningHomework.exe
+C:\Users\Rumeysa\source\repos\DataMiningHomework\DataMiningHomework\obj\Debug\DataMiningHomework.pdb
